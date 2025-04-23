@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name='mcqstackmaths',
+    name='mcqstack',
     version='0.0.1',
     author='motognon wastalas dogbalou',
     author_email='wastalasdassise@gmail.com',
