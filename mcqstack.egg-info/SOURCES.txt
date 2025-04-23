@@ -1,0 +1,7 @@
+README.md
+setup.py
+mcqstack.egg-info/PKG-INFO
+mcqstack.egg-info/SOURCES.txt
+mcqstack.egg-info/dependency_links.txt
+mcqstack.egg-info/requires.txt
+mcqstack.egg-info/top_level.txt
