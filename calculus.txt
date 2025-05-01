@@ -1,0 +1,29 @@
+Calculus is the mathematical study of continuous change, in the same way that geometry is the study of shape, and algebra is the study of generalizations of arithmetic operations.
+
+Originally called infinitesimal calculus or "the calculus of infinitesimals", it has two major branches, differential calculus and integral calculus. The former concerns instantaneous rates of change, and the slopes of curves, while the latter concerns accumulation of quantities, and areas under or between curves. These two branches are related to each other by the fundamental theorem of calculus. They make use of the fundamental notions of convergence of infinite sequences and infinite series to a well-defined limit.[1] It is the "mathematical backbone" for dealing with problems where variables change with time or another reference variable.[2]
+
+Infinitesimal calculus was formulated separately in the late 17th century by Isaac Newton and Gottfried Wilhelm Leibniz.[3][4] Later work, including codifying the idea of limits, put these developments on a more solid conceptual footing. Today, calculus is widely used in science, engineering, biology, and even has applications in social science and other branches of math.[5][6]
+
+In mathematics education, calculus is an abbreviation of both infinitesimal calculus and integral calculus, which denotes courses of elementary mathematical analysis.
+
+In Latin, the word calculus means “small pebble”, (the diminutive of calx, meaning "stone"), a meaning which still persists in medicine. Because such pebbles were used for counting out distances,[7] tallying votes, and doing abacus arithmetic, the word came to be the Latin word for calculation. In this sense, it was used in English at least as early as 1672, several years before the publications of Leibniz and Newton, who wrote their mathematical texts in Latin.[8]
+
+In addition to differential calculus and integral calculus, the term is also used for naming specific methods of computation or theories that imply some sort of computation. Examples of this usage include propositional calculus, Ricci calculus, calculus of variations, lambda calculus, sequent calculus, and process calculus. Furthermore, the term "calculus" has variously been applied in ethics and philosophy, for such systems as Bentham's felicific calculus, and the ethical calculus.
+
+
+Middle East
+In the Middle East, Hasan Ibn al-Haytham, Latinized as Alhazen (c. 965 – c. 1040 AD) derived a formula for the sum of fourth powers. He determined the equations to calculate the area enclosed by the curve represented by 
+y
+=
+x
+k
+{\displaystyle y=x^{k}} (which translates to the integral 
+∫
+x
+k
+d
+x
+{\displaystyle \int x^{k}\,dx} in contemporary notation), for any given non-negative integer value of 
+k
+{\displaystyle k}.[16]He used the results to carry out what would now be called an integration of this function, where the formulae for the sums of integral squares and fourth powers allowed him to calculate the volume of a paraboloid.[17]
+

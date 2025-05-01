@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-Who coined the term machine learning in 1959?,a: Donald Hebb | b: Tom M. Mitchell | c: Arthur Samuel | d: Walter Pitts,c
-What was the name of the experimental 'learning machine' developed by Raytheon Company in the early 1960s?,a: Cyberdyne | b: Cybertron | c: Skynet | d: Matrix,b
-Who proposed the early mathematical models of neural networks in the study of human cognitive systems?,a: Warren McCulloch | b: Ray Kurzweil | c: Elon Musk | d: Alan Turing,a
-"According to Tom M. Mitchell, what does a computer program do in the context of machine learning?",a: Think like a human | b: Learn from experience | c: Predict future outcomes | d: Improve performance measure,b
-What are the two main objectives of modern-day machine learning?,a: To play games and chat online | b: To classify data and make predictions | c: To write code and design websites | d: To watch movies and listen to music,b
+What term was coined in 1959 by Arthur Samuel to describe the field of computer gaming and artificial intelligence?,a: Artificial Intelligence | b: Machine Learning | c: Computer Gaming | d: Self-Teaching Computers,b
+"Who published the book 'The Organization of Behavior' in 1949, introducing a theoretical neural structure relevant to machine learning?",a: Arthur Samuel | b: Donald Hebb | c: Walter Pitts | d: Warren McCulloch,b
+"In the 1960s, Raytheon Company developed a learning machine called Cybertron to analyze which types of signals?",a: Radio Signals | b: Sonar Signals | c: Satellite Signals | d: Internet Signals,b
+"According to Tom M. Mitchell, what is the fundamental definition of machine learning algorithms?",a: Improving with experience E | b: Classifying data based on models | c: Making predictions for future outcomes | d: Learning from experience E with respect to tasks T and performance measure P,d
+What are the two main objectives of modern-day machine learning?,a: To develop models and analyze data | b: To predict future outcomes and classify data | c: To create algorithms and improve performance | d: To study human cognitive processes and neural structures,b
