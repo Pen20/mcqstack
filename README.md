@@ -1,4 +1,5 @@
 📊 AutoMath MCQ Maker with LangChain
+
 AutoMath is an AI-powered app designed to assist educators and content developers in generating high-quality multiple-choice questions (MCQs) for mathematics courses. The app streamlines the authoring of STACK-compatible questions by allowing users to provide topic descriptions and difficulty preferences, automatically generating customized MCQs and exporting them as PDF files for review or classroom use.
 
 🚀 Key Features
