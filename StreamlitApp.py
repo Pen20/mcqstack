@@ -10,9 +10,12 @@ from src.mcqstack.MCQMaths import generate_evaluate_chain
 from src.mcqstack.logger import logging
 
 
-# Load JSON file safely with correct path format
+# Load JSON file safely with a relative path
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+json_path = os.path.join(BASE_DIR, "Response.json")
+
 try:
-    with open(r'C:\Users\Hp\Documents\github\mcqstack\Response.json', 'r') as file:
+    with open(json_path, "r") as file:
         RESPONSE_JSON = json.load(file)
 except FileNotFoundError:
     st.error("Response.json file not found. Please check the file path.")
